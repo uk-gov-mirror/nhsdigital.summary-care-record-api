@@ -4,10 +4,6 @@
         <Step>
         <Name>AssignMessage.Errors.Default</Name>
         </Step>
-        <Step>
-            <Name>FlowCallout.ValidateIDAssuranceLevel</Name>
-            <Condition>!(proxy.pathsuffix = "/_ping" OR proxy.pathsuffix = "/_status")</Condition>
-        </Step>
         </Request> 
     </PreFlow>
     <Flows>

@@ -36,6 +36,10 @@
         <Condition>(access-mode Equals "user-restricted")</Condition>
       </Step>
       <Step>
+          <Name>FlowCallout.ValidateIDAssuranceLevel</Name>
+          <Condition>(access-mode Equals "user-restricted")</Condition>
+      </Step>
+      <Step>
         <Name>Quota</Name>
       </Step>
       <Step>
