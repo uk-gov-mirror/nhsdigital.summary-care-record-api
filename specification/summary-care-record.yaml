@@ -34,6 +34,7 @@ info:
     * send an SCR alert message, on those occasions when an SCR is accessed without the patient's permission e.g., in an emergency or when the equivalent of Self-Claim Legitimate Relationship is created.
     * update a patient's SCR Consent Preference on the Spine ACS
 
+
     You can:
     * get a patient's SCR identifier
     * get a patient's SCR
